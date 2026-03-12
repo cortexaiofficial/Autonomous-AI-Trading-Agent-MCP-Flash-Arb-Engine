@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/Status-Public--Testing-green?style=for-the-badge" alt="Status">
   <img src="https://img.shields.io/badge/Focus-AI--Arbitrage-blue?style=for-the-badge" alt="Focus">
   <img src="https://img.shields.io/badge/Protocol-MCP--Enabled-orange?style=for-the-badge" alt="Protocol">
-</p>
+</p> 
  
 
 --- 
