@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/badge/OS-Windows-blue?style=for-the-badge&logo=windows" alt="Windows">
   <img src="https://img.shields.io/badge/OS-Linux-orange?style=for-the-badge&logo=linux" alt="Linux">
   <img src="https://img.shields.io/badge/OS-macOS-white?style=for-the-badge&logo=apple" alt="macOS">
-</p>
+</p> 
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Public--Testing-green?style=for-the-badge" alt="Status">
